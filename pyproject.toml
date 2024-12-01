@@ -1,0 +1,18 @@
+[tool.ruff]
+lint.select = ["ALL"]
+lint.ignore = [
+    "D",  # pydocstyle
+    "E501",  # line too long (pycodestyle), handled by ruff-format
+    "E741",  # ambiguous-variable-name (pycodestyle)
+    "ANN003",  # missing-type-kwargs (flake8-annotations)
+    "ANN401",  # any-type (flake8-annotations)
+    "COM",  # flake8-commas, handled by ruff-format
+    "CPY",  # flake8-copyright
+    "ISC001",  # single-line-implicit-string-concatenation (flake8-implicit-str-concat)
+    "INP",  # flake8-no-pep420
+    "T20",  # flake8-print
+]
+target-version = "py311"  # the minimum Python version supported, used by pyupgrade
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
