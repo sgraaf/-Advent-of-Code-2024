@@ -7,3 +7,4 @@ This repository contains my solutions for [Advent of Code 2024](https://adventof
 The solution to each day's puzzle (along with any input) is stored in its own directory:
 * [Day 1: Historian Hysteria](./day01)
 * [Day 2: Red-Nosed Reports](./day02)
+* [Day 3: Mull It Over](./day03)
