@@ -9,3 +9,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 * [Day 2: Red-Nosed Reports](./day02)
 * [Day 3: Mull It Over](./day03)
 * [Day 4: Ceres Search](./day04)
+* [Day 5: Print Queue](./day05)
