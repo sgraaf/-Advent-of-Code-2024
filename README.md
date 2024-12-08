@@ -12,3 +12,4 @@ The solution to each day's puzzle (along with any input) is stored in its own di
 * [Day 5: Print Queue](./day05)
 * [Day 6: Guard Gallivant](./day06)
 * [Day 7: Bridge Repair](./day07)
+* [Day 8: Resonant Collinearity](./day08)

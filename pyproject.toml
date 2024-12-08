@@ -7,6 +7,7 @@ lint.ignore = [
     "E741",  # ambiguous-variable-name (pycodestyle)
     "ANN003",  # missing-type-kwargs (flake8-annotations)
     "ANN401",  # any-type (flake8-annotations)
+    "FBT",  # flake8-boolean-trap
     "COM",  # flake8-commas, handled by ruff-format
     "CPY",  # flake8-copyright
     "ISC001",  # single-line-implicit-string-concatenation (flake8-implicit-str-concat)
